@@ -1,3 +1,4 @@
+Automated Revenue Assurance & Billing System | SQL, CTEs
 📝 Project Overview
 
 The Telecom Billing & Usage Analytics project is designed to manage and analyze customer call and data usage while generating accurate monthly bills. It helps telecom companies track usage, detect anomalies, and rank customers based on consumption. The project demonstrates practical SQL skills and the use of advanced analytics techniques like window functions, CTEs, and aggregate functions.
